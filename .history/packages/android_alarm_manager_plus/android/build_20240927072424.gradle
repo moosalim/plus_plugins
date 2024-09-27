@@ -23,8 +23,6 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
-    namespace 'dev.fluttercommunity.plus.androidalarmmanager'
-
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
